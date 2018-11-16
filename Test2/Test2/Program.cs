@@ -151,6 +151,8 @@ namespace Test2
         {
             Console.Write("Enter a starting value: ");
             int cm = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter a starting value: ");
+            int cm = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
