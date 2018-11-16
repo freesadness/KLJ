@@ -149,7 +149,8 @@ namespace Test2
         /// </summary>
         public static void Question5()
         {
-            
+            Console.Write("Enter a starting value: ");
+            int cm = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
